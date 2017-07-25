@@ -11,3 +11,8 @@ public class StringLength {
         System.out.println(name + " has " + stringSize + " characters.");
     }
 }
+/* Also useful: charAt(index) char letter;
+                              String name = "Zoli";
+                              letter = name.charAt(2) => 'o'
+    length() = 4 ; toLowerCase() = "zoli" ; toUpperCase() = "ZOLI"
+ */
