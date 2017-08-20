@@ -7,7 +7,7 @@ public class SalesRepresentative {
         int sales;
         int quota;
 
-        int gigi[] = {sales = 17, quota = 230}; // giving people some value, not sure how to sort names.
+        int gigi[] = {sales = 18, quota = 230}; // giving people some value, not sure how to sort names.
         int calin[] = {sales = 13, quota = 185};
         int alin[] = {sales = 8, quota = 300};
         int andrei[] = {sales = 5, quota = 780};

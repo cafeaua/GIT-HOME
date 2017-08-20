@@ -27,7 +27,7 @@ public class NamesDialog {
 
         //Display a greeting.
         JOptionPane.showMessageDialog(null, "Hello " +
-                firstName + " " + middleName + " " + lastName + " ");
+                firstName + " " +  middleName + " " + lastName + " ");
 
         System.exit(0);
 
